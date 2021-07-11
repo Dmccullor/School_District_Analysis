@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 Analysis of grades from various school districts
 
 ## Overview
@@ -13,7 +13,7 @@ After the rework of the analysis, the district summary was largely unaffected. T
 
 The deletions largely did not effect the sub anhalyses as they were too broad to be impacted by such a small subset of students. The exception, of course, being the breakdown of scores by grade. The 9th grade Thomas High School Students had no value for the math and reading scores as shown in this image.
 
-(Insert screencap)
+<img src="Images/by_grade_math.png" width="300">
 
 ## Summary
 
