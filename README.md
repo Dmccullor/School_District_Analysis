@@ -8,7 +8,8 @@ The purpose of this analysis was to provide school board members with various co
 
 After the rework of the analysis, the district summary was largely unaffected. The small population of students had negligible effect on the metrics of the broader district. In the analysis by school, Thomas High School's average reading score dropped slightly while the average math score rose slightly. The passing percentages dropped across the board, the most significant change being the overall passing rate, which dropped by just over .3 percentage points. The number for pre and post rework are displayed below. Despite the meager drop, Thomas remains the second highest performing school in the district, outperformed only by Cabrera High School with a 91.3% passing rate.
 
-(Insert screenshots here)
+![Pre Removal](Images/Thomas_per_school_pre.png)
+![Post Removal](Images/Thomas_per_school_post.png)
 
 The deletions largely did not effect the sub anhalyses as they were too broad to be impacted by such a small subset of students. The exception, of course, being the breakdown of scores by grade. The 9th grade Thomas High School Students had no value for the math and reading scores as shown in this image.
 
